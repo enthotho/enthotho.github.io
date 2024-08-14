@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://enthotho.github.io/sitemap.html.gz
+Sitemap: https://enthotho.github.io/app/sitemap.html.gz
+Sitemap: https://enthotho.github.io/assets/sitemap.html.gz
+Sitemap: https://enthotho.github.io/css/sitemap.html.gz
+Sitemap: https://enthotho.github.io/includes/sitemap.html.gz
+Sitemap: https://enthotho.github.io/item/sitemap.html.gz
+Sitemap: https://enthotho.github.io/src/sitemap.html.gz
